@@ -29,6 +29,6 @@
   
 Feel free to reach out to me at:<br>
 Email --> tomasba19@gmail.com<br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/tomás-barolo-83918a276)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tomás-barolo-83918a276)
 
 </div>
