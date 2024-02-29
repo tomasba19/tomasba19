@@ -3,7 +3,7 @@
 </div>
 
 ##  💫 About Me:
-🔭 I'm currently a Full Stack Developer student.<br> ⚡ Fun fact --> [Everybody is a Ferrary fan](https://www.youtube.com/watch?v=TXD1hfP4Ep4)🏎️🏎️🏎️
+🔭 I'm currently a Full Stack Developer student.<br> [Everybody is a Ferrary fan](https://www.youtube.com/watch?v=TXD1hfP4Ep4)🏎️🏎️🏎️
 
 
 
